@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Atividade</string>
+    <string name="msg">Digite o valor para o cálculo</string>
+</resources>
